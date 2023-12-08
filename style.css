@@ -1,0 +1,19 @@
+body{ 
+    background-color: #2F2E41;
+}
+
+.font-white {
+    color: #FFF;
+}
+
+.font-jetBrain {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.font-openSans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-detail {
+    color: #C2C2C2;
+}
